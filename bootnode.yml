@@ -1,4 +1,4 @@
-version: '3'
+version: "3"
 services:
   bootnode:
     image: parity/parity:v2.7.2-stable
